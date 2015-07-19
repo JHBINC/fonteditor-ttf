@@ -15,7 +15,7 @@ fonteditor中ttf模块的nodejs版本
 
 提供glyph轮廓相关函数
 
-**此版本lib目录里的代码为`在线编辑器核心[fonteditor-core](https://github.com/kekee000/fonteditor-core)`导出代码，不在此处编辑代码**
+**此版本lib目录里的代码为`在线编辑器核心`fonteditor-core`导出代码，不在此处编辑代码**
 
 在线编辑器: [fonteditor](http://font.baidu.com)
 
