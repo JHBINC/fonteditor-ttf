@@ -1,7 +1,7 @@
 {
   "name": "fonteditor-ttf",
 
-  "version": "0.0.15",
+  "version": "0.0.18",
 
   "description": "ttf to woff, svg, eot convert, otf to ttf convert, ttf adjust",
   "keywords": ["font", "ttf", "woff", "svg", "eot", "otf"],
