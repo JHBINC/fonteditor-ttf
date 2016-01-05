@@ -1,6 +1,15 @@
 fonteditor-ttf
 ==============
 
+# Notice
+
+**fonteditor-ttf不再维护**，由发布版的fonteditor-core替代，fonteditor-core同时提供browser和node端api。
+
+相关项目：[fonteditor-core](https://github.com/kekee000/fonteditor-core)
+
+
+===
+
 fonteditor中ttf模块的nodejs版本
 
 提供ttf、woff、eot、svg格式字体的读取、生成和转换
